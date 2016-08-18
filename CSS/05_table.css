@@ -1,0 +1,8 @@
+@CHARSET "ISO-8859-1";
+table {
+    border-collapse: collapse;
+}
+td, th, tr{
+    border: 1px solid black;
+    margin: 0px;
+}

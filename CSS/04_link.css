@@ -1,0 +1,6 @@
+@CHARSET "ISO-8859-1";
+a:hover { color: red; }
+a:active { color: blue; }
+a:VISITED {
+	color: green;
+}

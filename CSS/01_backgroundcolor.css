@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+
+h1{
+	background-color: CornflowerBlue;
+}
+
+#container{
+background-color: darkgray;
+}
+
+p{
+	background-color: white;
+}

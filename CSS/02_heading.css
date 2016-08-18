@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+
+#head2{
+	text-decoration: line-through;
+}
+
+#head3{
+	text-decoration: underline;
+}
