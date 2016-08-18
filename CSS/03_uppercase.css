@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+#txt{
+	text-transform: uppercase;
+}
+#all
+{
+font-family: Arial, sans-serif;
+}
+#capital{
+	text-transform: capitalize;
+}

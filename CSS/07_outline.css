@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+#container{
+	border: 1px solid orange;
+	outline-width:2px;
+	outline-style: dotted;
+	outline-color: green;
+	width:500px;
+	padding: 2px;
+}
